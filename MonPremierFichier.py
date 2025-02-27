@@ -4,3 +4,5 @@ def tata():
     
 def coucou():
     print('coucou')
+tata()
+coucou()
